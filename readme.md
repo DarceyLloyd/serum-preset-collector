@@ -67,4 +67,34 @@ Delete your serum database file and the contents of your serum user presets fold
 Copy the contents of the presets folder in this project folder to your serum presets user folder.
 
 ## STEP 11.
-Start up your DAW and open serum, sit back and wait for it to scan your presets.
+Start up your DAW and open serum, sit back and wait for it to scan your presets
+
+<hr><br>
+<br>
+
+## <b>NOTE: You will loose your preset ratings but at least you will be rid of all the presets which are crap.</b>
+
+
+<hr><br>
+<br>
+
+
+## <b>Duplicate Preset Removal.</b>
+
+### Step 1
+Download dupeGuru
+
+### Step 2
+Set to scan file contents
+
+### Step 3
+Click on more options, make sure "ignore files smaller than 10kb is unchecked"
+
+### Step 4
+Drag your serum presets folder into dupeGuru (make backup 1st) and click scan (bottom right)
+
+### Step 5
+Open "Mark" menu, select "Mark All"
+
+### Step 6
+Open "Actions" menu, select "Send marked to recycle bin"
