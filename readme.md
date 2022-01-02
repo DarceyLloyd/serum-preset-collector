@@ -10,11 +10,11 @@ Go through your entire serum preset collection and rate everything you like 2 st
 <br>WARNING: Only presets with a rating of 2 stars and more will be copied to the presets folder
 
 ## STEP 2.
-Find your Serumpresetdb.dat file and copy it to this project folder, for windows users it's located at:<br> C:\Users\<your user name here>\AppData\Roaming\Xfer <br>
+Download this github repository and extract to a folder somewhere on your computer. Then find your <b>Serumpresetdb.dat</b> file and copy it to this project folder, for windows users it's located at:<br> <b>C:\Users\<your user name here>\AppData\Roaming\Xfer</b> <br>
 For mac users, I'm not sure, give it a quick google, it shouldn't be hard to find
 
 ## STEP 3.
-Make sure you have nodejs installed
+Make sure you have nodejs installed. Google nodejs download, its' easy enough to find and free.
 
 ## STEP 4.
 Open a terminal, shell, cli, dos, cmd, powershell and CD to this project directory (use commands such as CD, LS, DIR etc).<br> NOTE: Install nodejs first then open terminal, shell, cli, dos, cmd, powershell so it can find the node command
