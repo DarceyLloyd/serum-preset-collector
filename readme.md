@@ -35,7 +35,7 @@ npm install
 ```
 
 ## STEP 6.
-Check what the stats of your collection and what your going to get out of it
+Check what the tool sees and what it's going to do for you by running the following command
 ```
 node info
 ```
