@@ -20,6 +20,7 @@ Open the start.js file and see line 19.
 let dir = path.resolve("F:\\MusicMaker\\Presets\\Serum Presets\\Presets");
 ```
 Set this to your serum presets path, for windows users I think this is in your MyDocuments XFER serum folder, but I moved mine...
+NOTE: Windows users need to use a double \\ instead of a single \
 
 ## STEP 3.
 Make sure you have nodejs installed. Google nodejs download, its' easy enough to find and free.
