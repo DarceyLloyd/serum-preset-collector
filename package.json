@@ -1,0 +1,19 @@
+{
+  "name": "serum-preset-collector",
+  "version": "1.0.0",
+  "description": "Serum Preset Collector",
+  "main": "start.js",
+  "dependencies": {
+    "aftc-node-tools": "^0.6.5",
+    "fs-extra": "^9.1.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  },
+  "author": "darcey.lloyd@gmail.com",
+  "license": "ISC"
+}

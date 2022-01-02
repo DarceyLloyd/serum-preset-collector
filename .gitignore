@@ -1,0 +1,37 @@
+# Dev
+vendor
+node_modules
+package-lock.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+nbproject
+.nbproject
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+composer.lock
+.vs
+.vscode
+prepros-6.config
+
+
+# Misc
+.old
+presets-v1
+presets-v2
+backups
+beta
+*.lnk
+*.dat
+presets
