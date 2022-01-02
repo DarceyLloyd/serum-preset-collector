@@ -9,9 +9,17 @@ Over time I've been getting serum presets given to me via free emails from vario
 Go through your entire serum preset collection and rate everything you like 2 stars or more
 <br>WARNING: Only presets with a rating of 2 stars and more will be copied to the presets folder
 
-## STEP 2.
+## STEP 2a
 Download this github repository and extract to a folder somewhere on your computer. Then find your <b>Serumpresetdb.dat</b> file and copy it to this project folder, for windows users it's located at:<br> <b>C:\Users\<your user name here>\AppData\Roaming\Xfer</b> <br>
 For mac users, I'm not sure, give it a quick google, it shouldn't be hard to find
+
+## STEP 2b
+Set your preset path.
+Open the start.js file and see line 19.
+```
+let dir = path.resolve("F:\\MusicMaker\\Presets\\Serum Presets\\Presets");
+```
+Set this to your serum presets path, for windows users I think this is in your MyDocuments XFER serum folder, but I moved mine...
 
 ## STEP 3.
 Make sure you have nodejs installed. Google nodejs download, its' easy enough to find and free.
