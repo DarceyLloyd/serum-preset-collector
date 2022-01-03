@@ -44,9 +44,9 @@ node info
 Now lets get the job done and filter off all the crap and keep what you like.<br>
 NOTE: Your presets wont be touched, it's up to you to remove them and swap them out for the content of the presets folder which will be generated in this project folder. I would recommend making a backup of them for safe keeping.
 ```
-node info
+node start
 ```
-This will make a copy of all presets with 2 stars or more in the presets folder in this project folder.
+This will copy all presets with 2 or more stars to a folder called presets in this project folder.
 
 <br>
 <hr>
